@@ -1,0 +1,15 @@
+.image-med {
+  width: 60%
+}
+.image-m,
+.image-smaller {
+  width: 80%
+}
+.image,
+.smaller {
+  width: 60%
+}
+.t {
+  color: #0cf
+}
+
